@@ -2,6 +2,9 @@
 ## Liens vers les informations du jeu de donnée
 Life expectancy https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 All Natural disasters 1900-2021, https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
+Conflict dataset 
+<img width="862" height="562" alt="image" src="https://github.com/user-attachments/assets/4f37dafe-801e-4cdc-a1ca-b0ddbabad51e" />
+
 ## Questions d'analyse
 * Quel facteur impacte le plus l'espérance de vie: les guerres ou les catastrophes naturelles ou les épidémies/pandémies
 * Les pays qui subissent les deux à la fois ont-ils une espérance de vie encore plus basse?
