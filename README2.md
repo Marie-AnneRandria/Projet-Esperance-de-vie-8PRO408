@@ -2,7 +2,7 @@
 ## Impact des guerres, des catastrophes naturelles et des épidémies sur l'espérance de vie (2000–2021)
 
 **Cours :** Outils de programmation pour la science des données (8PRO408) — UQAC, Été 2026
-**Auteurs :** Abir & [camarade]
+**Auteurs :** 
 **Date de remise :** 14 juin 2026
 
 ---
