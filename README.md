@@ -7,7 +7,7 @@ L'espérance de vie n'est pas seulement un chiffre ou même un âge qu'on peut e
 
 ## Choix des sous sujets et perspective pour le traitement :
 Les facteurs influant un sujet aussi complexe que l'espérance de vie étant nombreux, nous avons fait le choix de traiter le sujet à travers des sous questions spécifiques auxquels nous pourrons répondre en détails à travers des analyses profondes. 
-Le traitement de ses sous questions nous mènera à la déduction d'une conclusion globale plus générale. Cependant, nous nous sommes fixé une plage temporelle commune, les analyses porteront majoritairement sur la période de 2000 à 2021 mais certaines études nécessiteront une plage plus large.
+Le traitement de ses sous questions nous mènera à la déduction d'une conclusion globale plus générale. Cependant, nous nous sommes fixé une plage temporelle commune, les analyses porteront majoritairement sur la période de 2000 à 2021 mais certaines études nécessiteront une plage plus large (1950 - 2021).
 
 ## Les sous questions :
 
@@ -31,9 +31,9 @@ C’est pourquoi c’est un axe qui nous semble intéressante.
 
 <i> La question sera traitée par Marie-AnneRandria </i>
 
-### 1 - Qu’est ce qui explique le faussé de l’espérance de vie entre l’Afrique et le reste du monde ? (Exceptionnellement l'analyse pouvant aller jusqu’à 1950)
-## 1) Qu’est ce qui a ralenti l’Afrique dans son évolution ? 
-## 2) Quel monde sépare l’Afrique du Nord et l’Afrique du Sud ? 
+## 1 - Qu’est ce qui explique le faussé de l’espérance de vie entre l’Afrique et le reste du monde ? (1950 - 2020)
+### 1) Qu’est ce qui a ralenti l’Afrique dans son évolution ? 
+### 2) Quel monde sépare l’Afrique du Nord et l’Afrique du Sud ? 
 
 #### Introduction :
 En visionnant les cartes du monde de l’espérance de vie par état (à différente période), le constat est sans appel : l’Afrique a une évolution beaucoup plus singulière que les autres continents. Une évolution plus lente (1), une évolution hétérogène (2).
@@ -70,8 +70,12 @@ L’Afrique a presque toujours été le continent avec l’espérance de vie la 
 
 
 ## Liens vers les informations du jeu de donnée
-Life expectancy https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
-All Natural disasters 1900-2021, https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
+Life expectancy : https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 
-Conflict dataset 
+All Natural disasters 1900-2021 : https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
+
+Demographic Indicators(1900 - 2100) : https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format
+
+Conflict dataset : 
+
 <img width="862" height="562" alt="image" src="https://github.com/user-attachments/assets/4f37dafe-801e-4cdc-a1ca-b0ddbabad51e" />
