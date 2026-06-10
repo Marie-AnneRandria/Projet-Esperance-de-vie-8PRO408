@@ -40,8 +40,8 @@ En visionnant les cartes du monde de l’espérance de vie par état (à différ
 
 #### En effet, voici des cartes du monde de l’espérance de vie par état :
 <p align="">
-  <img width="300" height="200" alt="image1" src="https://github.com/user-attachments/assets/c637c526-db95-4ca3-b82d-861e5d1e4c36" />
-  <img width="300" height="200" alt="image2" src="https://github.com/user-attachments/assets/e1cd7aca-1c5e-406d-909d-9168eaf347e5" />
+  <img width="300" height="200" alt="image1" src="https://github.com/user-attachments/assets/e1cd7aca-1c5e-406d-909d-9168eaf347e5" />
+  <img width="300" height="200" alt="image2" src="https://github.com/user-attachments/assets/c637c526-db95-4ca3-b82d-861e5d1e4c36" />
 </p> 
 <p align="">
   <img width="300" height="200" alt="image1" src="https://github.com/user-attachments/assets/68937f57-49f1-4aa6-9aa2-0ce174c1af2c" />
