@@ -95,7 +95,7 @@ Le but n'est pas seulement d'avoir un modèle qui prédit bien, mais de comprend
 prédit comme ça : quels sont les 3-4 facteurs qui pèsent le plus, et est-ce que ça confirme
 ou non les idées reçues.
 
-La question sera traitée par {ton pseudo GitHub}
+La question sera traitée par Manele Hssini
 
 
 
