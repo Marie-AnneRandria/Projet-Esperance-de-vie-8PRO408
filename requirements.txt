@@ -1,0 +1,19 @@
+# Manipulation des données
+pandas
+numpy
+
+# Apprentissage automatique (régression, random forest, métriques)
+scikit-learn
+
+# Statistiques et ANOVA
+scipy
+statsmodels
+
+# Visualisation
+matplotlib
+seaborn
+
+# Environnement de travail (notebooks)
+jupyter
+notebook
+ipykernel
