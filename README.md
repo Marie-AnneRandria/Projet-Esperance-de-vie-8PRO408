@@ -61,7 +61,47 @@ L’Afrique a presque toujours été le continent avec l’espérance de vie la 
 
 <i> La question sera traitée par ManeleHssini </i>
 
+### 4 - Peut-on prédire la baisse de l'espérance de vie d'un pays à partir des conflits armés, des épidémies et des catastrophes naturelles qu'il a subis ?
 
+#### Introduction :
+
+Les deux premières questions s'intéressent à des écarts précis : entre les hommes et
+les femmes, et entre l'Afrique et le reste du monde. Moi, j'ai voulu prendre le problème
+autrement. Quand on regarde l'évolution de l'espérance de vie d'un pays, elle monte
+presque toujours, doucement, année après année. Sauf que de temps en temps, elle
+s'effondre d'un coup. Et ces chutes-là ne sont jamais dues au hasard : il y a souvent
+une guerre, une épidémie ou une catastrophe naturelle derrière.
+
+C'est cette idée que je veux creuser. Plutôt que d'essayer de prédire l'espérance de vie
+elle-même (ce qui n'a pas grand intérêt, vu qu'elle change très peu d'une année à
+l'autre), je veux prédire **sa variation** : de combien d'années elle baisse quand un
+pays subit un choc. Autrement dit, je laisse un modèle apprendre le lien entre les
+chocs vécus par un pays une année donnée et la chute d'espérance de vie qui suit.
+
+En explorant les données, on voit tout de suite que ces chocs sont bien réels :
+
+| Pays | Année | Chute | Cause probable |
+|------|-------|-------|----------------|
+| Haïti | 2010 | −16,1 ans | séisme |
+| Syrie | 2012 | −6,0 ans | guerre civile |
+| Algérie | 2020 | −2,4 ans | COVID |
+
+<i> Source : World Population Prospects (ONU) </i>
+
+Pour répondre, je croise trois jeux de données sur la période 2000–2021 : les données
+démographiques de l'ONU (pour l'espérance de vie), la base UCDP (pour les conflits
+armés) et la base EM-DAT (pour les catastrophes naturelles et les épidémies). Je
+construis un tableau « un pays, une année » et j'utilise de l'apprentissage automatique :
+d'abord une **régression linéaire**, simple à comprendre, puis un **random forest** qui
+prédit mieux et permet surtout de classer les chocs du plus grave au moins grave. Une
+**analyse de variance (ANOVA)** vient confirmer si la baisse moyenne d'espérance de vie
+diffère vraiment selon le type de choc.
+
+Le but n'est pas seulement d'avoir un modèle qui prédit bien, mais de répondre à une
+question concrète : **quel choc coûte le plus d'années de vie — la guerre, l'épidémie
+ou la catastrophe naturelle — et peut-on anticiper ces chutes ?**
+
+<i> La question sera traitée par {TonPseudoGitHub} </i>
 
 
 
