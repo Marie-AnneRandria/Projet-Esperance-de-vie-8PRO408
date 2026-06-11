@@ -61,41 +61,6 @@ L’Afrique a presque toujours été le continent avec l’espérance de vie la 
 
 <i> La question sera traitée par ManeleHssini </i>
 
-### 3 - Quels sont les facteurs qui influencent le plus l'espérance de vie, et peut-on la prédire ?
-
-#### Introduction :
-
-Les deux premières questions regardent des écarts bien précis : entre les hommes et les
-femmes, et entre l'Afrique et le reste du monde. Moi, j'ai eu envie de prendre le problème
-dans l'autre sens. Au lieu de partir d'un facteur en particulier, je me suis posé la
-question : si on met tous les facteurs ensemble, lesquels comptent vraiment ?
-
-On entend souvent que tout est une question de richesse du pays, ou d'accès aux soins, ou
-encore de vaccination. Mais au fond ce sont surtout des intuitions. Ce que je veux faire ici,
-c'est laisser les données répondre à ma place plutôt que de deviner.
-
-Pour ça je m'appuie sur le jeu de données "Life Expectancy (WHO)" de Kaggle. Il est
-intéressant parce qu'il rassemble, pour 193 pays sur la période 2000 - 2015, une vingtaine
-de facteurs très variés : le statut du pays (développé / en développement), le PIB, les
-années de scolarisation, la consommation d'alcool, l'IMC moyen, les dépenses de santé, la
-couverture vaccinale (hépatite B, polio, diphtérie), le VIH/SIDA, ou encore les taux de
-mortalité. C'est assez complet pour pouvoir comparer les facteurs entre eux et voir
-lesquels pèsent vraiment.
-
-Ma démarche se fait en deux temps :
-
-1. Une partie exploration : je regarde les corrélations entre chaque facteur et l'espérance
-   de vie, et je nettoie les données (il y a pas mal de valeurs manquantes à gérer).
-2. Une partie modélisation : j'entraîne un modèle pour prédire l'espérance de vie à partir
-   des facteurs. Je commence par une régression linéaire, simple à interpréter, puis un
-   random forest qui est plus performant et qui permet surtout de sortir un classement des
-   facteurs les plus importants.
-
-Le but n'est pas seulement d'avoir un modèle qui prédit bien, mais de comprendre pourquoi il
-prédit comme ça : quels sont les 3-4 facteurs qui pèsent le plus, et est-ce que ça confirme
-ou non les idées reçues.
-
-La question sera traitée par Manele Hssini
 
 
 
