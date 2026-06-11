@@ -101,7 +101,7 @@ Le but n'est pas seulement d'avoir un modèle qui prédit bien, mais de répondr
 question concrète : **quel choc coûte le plus d'années de vie — la guerre, l'épidémie
 ou la catastrophe naturelle — et peut-on anticiper ces chutes ?**
 
-<i> La question sera traitée par {TonPseudoGitHub} </i>
+<i> La question sera traitée par ManeleHssini </i>
 
 
 
