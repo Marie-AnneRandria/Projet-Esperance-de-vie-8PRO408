@@ -59,7 +59,7 @@ L’Afrique a presque toujours été le continent avec l’espérance de vie la 
 ### 3 - 
 #### Introduction :
 
-<i> La question sera traitée par ManeleHssini </i>
+<i> La question sera traitée par Sh </i>
 
 ### 4 - Peut-on prédire la baisse de l'espérance de vie d'un pays à partir des conflits armés, des épidémies et des catastrophes naturelles qu'il a subis ?
 
@@ -106,12 +106,16 @@ ou la catastrophe naturelle — et peut-on anticiper ces chutes ?**
 
 
 ## Liens vers les informations du jeu de donnée
-Life expectancy : https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 
-All Natural disasters 1900-2021 : https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
+All Natural disasters (1900-2021) : 
+https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
 
-Demographic Indicators(1900 - 2100) : https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format
+Demographic Indicators(1900 - 2100) : 
+https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format
 
 Conflict dataset : 
 
 <img width="862" height="562" alt="image" src="https://github.com/user-attachments/assets/4f37dafe-801e-4cdc-a1ca-b0ddbabad51e" />
+
+GHO (Global Heath Organisation) Health Inequality (1950-2024) :
+https://www.who.int/data/sets/health-inequality-monitor-dataset#gho
