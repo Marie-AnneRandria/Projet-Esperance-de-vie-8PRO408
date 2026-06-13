@@ -31,12 +31,12 @@ C’est pourquoi c’est un axe qui nous semble intéressante.
 
 <i> La question sera traitée par Marie-AnneRandria </i>
 
-## 1 - Qu’est ce qui explique le faussé de l’espérance de vie entre l’Afrique et le reste du monde ? (1950 - 2020)
-### 1) Qu’est ce qui a ralenti l’Afrique dans son évolution ? 
+## 1 - Comment évolue l'Afrique par rapport au reste du monde ? (1950 - 2020)
+### 1) Qu'est ce qui peut expliqué que l'Afrique ait l'espérance de vie plus basse que le reste du monde ? 
 ### 2) Quel monde sépare l’Afrique du Nord et l’Afrique du Sud ? 
 
 #### Introduction :
-En visionnant les cartes du monde de l’espérance de vie par état (à différente période), le constat est sans appel : l’Afrique a une évolution beaucoup plus singulière que les autres continents. Une évolution plus lente (1), une évolution hétérogène (2).
+En visionnant les cartes du monde de l’espérance de vie par état (à différente période), le constat est sans appel : l’Afrique est le continent ayant l'espérance de vie la plus basse du monde (1) et une évolution très hétérogène (2).
 
 #### En effet, voici des cartes du monde de l’espérance de vie par état :
 <p align="">
